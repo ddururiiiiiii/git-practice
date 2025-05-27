@@ -1,1 +1,1 @@
-브랜치 테스트1 (git-practice)
+브랜치 테스트2 (git-practice)
