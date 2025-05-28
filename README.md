@@ -14,6 +14,7 @@
 - [Github + Gradle 프로젝트 이클립스에서 Import 하는 법](https://ddururiiiiiii.tistory.com/98)
 - [Merge VS Rebase](https://ddururiiiiiii.tistory.com/355)
 - [git pull 과 인텔리제이에서 사용하는 Update Project는 어떤 차이가 있을까?](https://ddururiiiiiii.tistory.com/669)
+- [pull VS Update Project (intellij)](https://ddururiiiiiii.tistory.com/670)
 
 ----
 
